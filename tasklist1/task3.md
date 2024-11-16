@@ -9,8 +9,6 @@ ANS:
 - if file is exist then > this will over writes the message and >> this will apends that message in that existing file
 
 
-
-
 ### 2.Stage the file:
 git add README.md
 
